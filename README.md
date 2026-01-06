@@ -15,5 +15,5 @@ bill calculator using c programming
 
 
 Done by:
-Vaanya Agarwal
+Vaanya Agarwal AND
 Vishal.RS
